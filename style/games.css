@@ -1,6 +1,6 @@
 @font-face {
   font-family: slant;
-  src: url('res/slant.ttf');
+  src: url('../res/slant.ttf');
 }
 
 .title{
