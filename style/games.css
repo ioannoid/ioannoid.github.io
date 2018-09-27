@@ -26,6 +26,7 @@ li {
 }
 
 li a {
+	font-family: Tahoma;
     display: block;
     color: white;
     text-align: center;
