@@ -3,6 +3,10 @@
   src: url('../res/slant.ttf');
 }
 
+body {
+	height: auto;
+}
+
 .title {
   font-family: slant;
   color: white;
