@@ -38,7 +38,30 @@ li a:hover {
     background-color: #111111;
 }
 
+#fib {
+	position: relative;
+	text-align: center;
+	font-size: 40px;
+	background: #444444;
+	display: block;
+}
+
 .fib{
+	position: relative;
+	height: auto;
+	text-align: center;
+	display: block;
+}
+
+#fac {
+	position: relative;
+	text-align: center;
+	font-size: 40px;
+	background: #444444;
+	display: block;
+}
+
+.fac{
 	position: relative;
 	height: auto;
 	text-align: center;
