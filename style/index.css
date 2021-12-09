@@ -1,5 +1,5 @@
 .title {
-  font-family: Montserrat;
+  font-family: Arial;
   color: white;
   font-size: 80px;
   text-align: center;
@@ -21,7 +21,7 @@ li {
 }
 
 li a {
-	font-family: Tahoma;
+	font-family: Arial;
     display: block;
     color: white;
     text-align: center;
